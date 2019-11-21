@@ -10,7 +10,7 @@ We install the necessary software for security. You can install more if you want
 ```
 sudo apt update
 apt-get install fail2ban
-
+/etc/init.d/fail2ban start
 ```
 
 We will generate the "api_key_hash" and "seed base58" codes required for the configuration file of the node.
