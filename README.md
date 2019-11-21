@@ -133,7 +133,7 @@ It's time to load the WIND node.
 
 ```
 
-git clone https://github.com/windcoinplatform/WIND-node-docker-image.git
+git clone https://github.com/windcoinplatform/WINDnode.git
 
 ```
 
