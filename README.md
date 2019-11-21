@@ -141,7 +141,7 @@ Now we're making custom changes to your node in the config file
 
 ```
 
-cd WIND-node-docker-image
+cd WINDnode
 nano wind.custom.conf
 
 ```
